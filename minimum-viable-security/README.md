@@ -4,6 +4,8 @@ description: THE LEAST YOU CAN DO TO FRUSTRATE WOULD-BE HACKERS
 
 # Minimum Viable Security
 
+{% embed url="https://securityinabox.org/en/guide/smartphones/" %}
+
 {% embed url="https://www.tokendaily.co/blog/minimum-viable-security" %}
 
 {% embed url="https://cryptowords.github.io/im-not-an%20-international-drug-dealer" %}
@@ -36,6 +38,14 @@ It is important to remember that if you can memorize your password, it’s not a
 * Berkeley — [Top 10 Secure Computing Tips](https://security.berkeley.edu/resources/best-practices-how-to-articles/top-10-secure-computing-tips)
 * Jameson Lopp — [A Modest Privacy Protection Proposal](https://medium.com/s/story/a-modest-privacy-protection-proposal-5b47631d7f4c)
 * NIAIA — [Individual OPSEC & Personal Security — A How To Guide](https://www.niaia.org/files/uploads/IndividualOPSECandPersonalSecurity-Chesbro%28September2017%29.pdf)
+
+
+
+{% embed url="https://securitycheckli.st/" %}
+
+{% embed url="https://medium.com/nsc42/the-art-of-defining-a-security-strategy-part-1-the-why-d9b32daca8a9" %}
+
+![](https://www.linkedin.com/pulse/why-we-losing-cyber-security-war-paul-brucciani/)
 
 
 
