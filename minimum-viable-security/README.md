@@ -12,6 +12,8 @@ description: THE LEAST YOU CAN DO TO FRUSTRATE WOULD-BE HACKERS
 
 {% embed url="https://www.binance.com/en/blog/335022638333390848/14-Tips-to-Enhance-Security-for-Your-Binance-Account" %}
 
+{% embed url="https://onezero.medium.com/dont-put-your-work-email-on-your-personal-phone-ef7fef956c2f" %}
+
 ### Password Manager
 
 A password manager can be used to protect against any attacks that may result from third-party database breaches. While it won’t directly protect against an attack on the platform where the database was compromised — as a hacker will have your login information for that specific service — it will mitigate the potential fallout and ensure that login will not give them access to your other sensitive accounts.+
